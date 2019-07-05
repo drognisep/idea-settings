@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
